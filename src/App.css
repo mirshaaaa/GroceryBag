@@ -1,0 +1,31 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+.card{
+    max-width: 40rem;
+}
+.alnright{
+    text-align:right;
+}
+
+
+.fa-2x{
+    color:#593196;
+    cursor:pointer;
+    margin-top:6px;
+    float:right;
+}
+
+.fa-chevron-down{
+    cursor:pointer;
+    margin-top:6px;
+    float:right;
+}
+a:link {
+    text-decoration: none;
+    color:#593196;
+}
+
+.logo{
+    height:4rem;
+}

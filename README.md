@@ -1,1 +1,1 @@
-GroceryBag
+Recipe manager app. Created using react /w Context API and Bootstrap.
